@@ -1,2 +1,2 @@
-# evolution-gym
-Space for evolutionary computing
+# Evolution Gym
+Space for writing, running, and testing evolutionary code
