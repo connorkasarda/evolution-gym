@@ -1,0 +1,2 @@
+# The Knapsack Problem
+Given a set of *n* items, each of which have a value *v<sub>i</sub>* and cost *c<sub>i</sub>*, select a subset of those items, maximizing the sum of the values while maintaining a summed cost below a capacity of *C<sub>max</sub>*
