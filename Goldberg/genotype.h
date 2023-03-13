@@ -1,17 +1,14 @@
 #ifndef GENOTYPE_H
 #define GENOTYPE_H
 
-#include <bitset>
 using namespace std;
 
-// Five-bit binary encoding of a possible solution
+// Five-bit binary encoding of a possible solution (genes of the organism)
 class Genotype
 {
-    private:
-        int gid;
-        bitset<5> genes {};
-    public:
-        Genotype(int gid);
+    // PRIVATE MEMBERS
+        // identification
+        // bits
 };
 
 #endif
